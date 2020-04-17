@@ -1,0 +1,25 @@
+body {
+    background-color: #FFE2E2;
+}
+hr {
+    border-style:none;
+    height:5px;
+    border-color:black;
+    width:85%;
+}
+h1 {
+    color:#f76a8c;
+}
+h2 {
+    color:#f76a8c;
+}
+#lotion {
+   background-color: #FFE2E2 /* doesnt work since background isnt transparent, but usually
+   this would change the background color */
+}
+.maintext {
+    font-style: italic;
+}
+.Buy:hover {
+  color: gold;    
+}
