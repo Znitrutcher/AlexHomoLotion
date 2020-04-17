@@ -1,2 +1,0 @@
-# Znit
-My Site
